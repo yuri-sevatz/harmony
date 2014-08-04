@@ -1,0 +1,18 @@
+#Ignore Build Directory
+build/
+
+#Ignore build configuration
+libblogger/include/config.h
+
+#Ignore QtCreator Files
+CMakeLists.txt.user
+*.creator
+*.creator.user*
+*.files
+*.kdev4
+*.config
+*.includes
+
+.*
+!.gitignore
+
